@@ -8,6 +8,7 @@
 
 ## Key Vocab
 
+
 - **Module**: a file containing Python definitions and statements. A module's
 functions, classes, and global variables can be accessed by other modules.
 - **Package**: a collection of modules that can be accessed as a group using
